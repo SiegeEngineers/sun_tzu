@@ -4,7 +4,7 @@ from llama_index.llms import OpenAI
 import openai
 from llama_index import SimpleDirectoryReader
 
-st.set_page_config(page_title="Chat with Sun Tzu, an LLM trained on multiple sources and pro videos like Hera/SOTL, Survivalist, etc.", page_icon="⚔️", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title="Sun Tzu", page_icon="⚔️", layout="centered", initial_sidebar_state="auto", menu_items=None)
 
 st.title("Chat with Sun Tzu")
 st.info("Sun Tzu is an instance of Open AI's GPT 3.5/4 model, trained on custom data sourced from multiple sources like SOTL, Hera, TheViper, and more YouTubers, Discord messages and Reddit posts")
