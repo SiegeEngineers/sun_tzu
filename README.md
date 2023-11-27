@@ -24,4 +24,4 @@ Quite a few reasons actually
 Theoretical knowledge of the game can only get you so far, this might save your time by just summarising the video in a paragraph, however you need to watch the videos to actually see how it's done. Plus playing against other human players on the ladder is the best way to learn.
 
 ## Live demo
-You can try it out here: 
+You can try it out here: https://suntzuaoe2.streamlit.app/
