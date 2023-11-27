@@ -1,0 +1,48 @@
+Build order for any/generic archer civs except spanish:
+
+Dark Age:
+
+Queue up Villagers.
+Construct 2 Houses.
+    When finished, send them to Sheep.
+Assign villagers 4-6 to Sheep.
+Establish a Lumber Camp at villager 7.
+    When finished, send them to Wood.
+Allocate villagers 8-10 to Wood.
+Lure Boar with villager 11.
+Construct 2 Houses.
+    When finished, send them to Berries.
+Build a Mill with villager 13.
+    When finished, send them to Berries.
+Assign villagers 14-15 to Berries.
+Lure the 2nd Boar with villager 16-17.
+Assign villagers 16-17 to Sheep/Boar.
+Establish a Lumber Camp at villager 18.
+    When finished, send them to Wood.
+Allocate villagers 19-20 to Wood.
+Assign villager 21 to Wood.
+Research Loom.
+Advance to Feudal Age.
+    Take 2 villagers from Sheep to Wood.
+    Take 3 villagers from Sheep to (Gold) Mining Camp.
+        When finished, send them to Gold.
+    Around 60% of the way up to Feudal, take a Villager from Food to Barracks.
+
+Castle Age:
+
+Train 2 villagers at 21.
+Research Double-Bit Axe.
+Construct 2 Archery Ranges.
+    When finished, train 6-8 Archers.
+Build a Blacksmith.
+    Before your archers start attacking, research Fletching.
+Allocate villagers 22-25 to Gold.
+    Take villagers from Sheep as they get depleted to Farms.
+Assign villagers 26-33 to Straggler Trees and Farms.
+Research Wheelbarrow.
+    Take villagers from Berries as they get depleted to Farms.
+Assign villager 34 to Wood.
+Assign villager 35 to Gold.
+Advance to Castle Age.
+Research Horse Collar.
+Establish Gold Mining.

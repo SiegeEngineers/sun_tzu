@@ -1,0 +1,16 @@
+Goal of Scouting:
+    Identify four key elements: resource whereabouts, terrain, enemy whereabouts, and enemy activity.
+
+Scouting Efficiency:
+    Place the scout in a control group for quick selection (Ctrl + number).
+    Use waypoints (Shift + right-click) to predetermine a scouting route.
+
+Resource Prioritization:
+    Focus on finding your own resources before locating the enemy.
+
+Scout Survival:
+    Keep your scout alive; it's a valuable asset throughout the game.
+    The scout can reinforce your military early in the game.
+
+Waypoint Caution:
+    Be mindful not to rely too heavily on waypoints to avoid unintentional risks.

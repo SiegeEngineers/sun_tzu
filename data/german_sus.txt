@@ -1,0 +1,21 @@
+**Sustained Production in AoE2:**
+
+1. **Definition:**
+   - Sustained production entails zero idle time and a consistent maximum production rate.
+
+2. **Key Factor:**
+   - Essential for sustained production is having an adequate number of villagers gathering necessary resources.
+
+3. **Resource Allocation for Archer Production:**
+   - Example: To sustain archer production from one archery range:
+     - Minimum of two villagers on wood.
+     - Minimum of four villagers on gold.
+
+4. **Villager Production:**
+   - To sustain villager production per town center:
+     - Requires a minimum of six farmers.
+
+5. **Survivalists App:**
+   - Utilize the Survivalists app for detailed information on villager numbers needed for various sustained productions in the game.
+
+**Note:** Maintaining an optimal balance of villagers on resource gathering is crucial for sustained production, ensuring a steady and efficient output of military units and villagers in AoE2.

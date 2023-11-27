@@ -1,0 +1,53 @@
+The tutorial covers various aspects of micro (unit control) and macro (economy and strategy) in Age of Empires II. Here are key points:
+
+**Macro (Economy and Strategy):**
+- Unit Production: Macro involves efficiently producing units from your economy.
+- Resource Management: Manage resources to ensure continuous unit production.
+- Building Placement: Properly place buildings to optimize your economy and defense.
+- Scouting: Scout your surroundings to gather information about your opponent's strategy.
+- Tech Tree Understanding: Understand the tech tree to make informed decisions about upgrades and units.
+
+**Micro (Unit Control):**
+- Differentiating Micro and Macro: Micro enhances the effectiveness of individual units, while macro focuses on overall strategy.
+- Unit Control Groups: Assign units to control groups for quick and efficient management.
+- Terrain Advantage: Use high ground and chokepoints to your advantage in battles.
+- Shift Queuing: Utilize shift commands for units like archers to maximize their efficiency.
+- Melee vs. Ranged Units: Position ranged units strategically to avoid being overwhelmed by melee units.
+- Micro Techniques:
+  - Utilize split formation to dodge arrows.
+  - Run diagonally when attacked by melee units.
+  - Properly execute shift queuing for ranged and villagers.
+  - Use hills and chokepoints for positioning.
+  - Micro engagements with scouts and militia.
+  - Block enemy villagers during raids.
+  - Counter micro with quick walling during woodline raids.
+
+**Advanced Micro:**
+- **Villager Micro:**
+  - Quick walling to save villagers.
+  - Building placement to trap enemy units.
+  - 4-D Aggro trick to lure boars safely.
+  - Tower repair micro against enemy attacks.
+- **Siege Unit Micro:**
+  - Attack ground with mangonels to predict enemy movement.
+  - "Delete trick" to maximize damage in mangonel battles.
+  - Use attack ground to hit structures beyond regular range.
+- **Scorpion Micro:**
+  - Use scorpions to pierce through enemy units.
+  - Target the furthest unit for maximum damage.
+- **Cavalry Archer Micro:**
+  - Exploit their mobility for effective kiting.
+  - Thumb ring upgrade for increased fire rate.
+
+**Monk Micro:**
+- Various Methods:
+  - Clicking each monk individually.
+  - Using control groups for multiple conversions.
+  - Shift-queue conversions for quick and continuous conversions.
+- Theocracy Tech: Allows monks to convert without having all monks rest.
+
+**Final Thoughts:**
+- Fundamentals: Practice macro in a controlled environment like Arena.
+- Strategy Analysis: Analyze and improve your strategies based on performance.
+- Custom Micro Map: Practice micro in a custom map to refine skills.
+- Learn from Others: Watch skilled players to improve your gameplay.

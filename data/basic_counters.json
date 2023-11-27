@@ -1,0 +1,64 @@
+{
+  "units": [
+    {
+      "name": "Militia-Line",
+      "goodAgainst": ["Skirmishers", "Spearman-Line", "Eagle Warriors", "Scouts"],
+      "weakAgainst": ["Archers", "Knights", "Cavalry Archers", "Hand Cannoneers"]
+    },
+    {
+      "name": "Archer-Line",
+      "goodAgainst": ["Militia-Line", "Spearman-Line", "Knights", "Monks"],
+      "weakAgainst": ["Eagle Warriors", "Skirmishers", "Siege"]
+    },
+    {
+      "name": "Knight-Line",
+      "goodAgainst": ["Militia-Line", "Archer-Line", "Scout-Line", "Siege", "Eagle Warriors"],
+      "weakAgainst": ["Monks", "Archer-Line", "Spearman-Line", "Cavalry Archers", "Camels"]
+    },
+    {
+      "name": "Spearman-Line",
+      "goodAgainst": ["Scout-Line", "Knight-Line", "Camels", "Siege", "Battle Elephants"],
+      "weakAgainst": ["Archer-Line", "Cavalry Archers", "Hand Cannoneers", "Skirmishers"]
+    },
+    {
+      "name": "Skirmishers",
+      "goodAgainst": ["Spearman-Line", "Archer-Line", "Monks"],
+      "weakAgainst": ["Knight-Line", "Militia-Line", "Camels", "Scout-Line", "Siege", "Eagle Warriors"]
+    },
+    {
+      "name": "Scout-Line",
+      "goodAgainst": ["Skirmishers", "Monks", "Siege", "Archer-Line"],
+      "weakAgainst": ["Knight-Line", "Camels", "Cavalry Archers", "Archer-Line", "Militia-Line", "Eagle Warriors"]
+    },
+    {
+      "name": "Monks",
+      "goodAgainst": ["Knight-Line", "Battle Elephant", "Camels", "Siege"],
+      "weakAgainst": ["Scout-Line", "Eagle Warriors", "Archer-Line", "Skirmishers", "Spearman-Line"]
+    },
+    {
+      "name": "Eagle Warriors",
+      "goodAgainst": ["Archer-Line", "Skirmishers", "Scout-Line", "Monks", "Siege"],
+      "weakAgainst": ["Knight-Line", "Militia-Line", "Hand Cannoneers"]
+    },
+    {
+      "name": "Camels",
+      "goodAgainst": ["Scout-Line", "Knight-Line", "Siege", "Skirmishers"],
+      "weakAgainst": ["Monks", "Spearman-Line", "Archer-Line"]
+    },
+    {
+      "name": "Cavalry Archers",
+      "goodAgainst": ["Spearman-Line", "Militia-Line", "Knights", "Camels"],
+      "weakAgainst": ["Skirmishers", "Siege", "Monks", "Spearman-Line"]
+    },
+    {
+      "name": "Hand Cannoneers",
+      "goodAgainst": ["Infantry Units (Militia-Line, Eagle Warriors, Spearman-Line)", "Knights", "Scout-Line", "Camels"],
+      "weakAgainst": ["Siege", "Skirmishers", "Knight-Line", "Scout-Line", "Archer-Line"]
+    },
+    {
+      "name": "Battle Elephants",
+      "goodAgainst": ["Strong against all units provided it can reach that unit"],
+      "weakAgainst": ["Spearman-Line", "Monks", "Archers (with Hit-and-Run technique)", "Cavalry Archers (with hit-and-run technique)"]
+    }
+  ]
+}

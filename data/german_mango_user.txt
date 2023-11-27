@@ -1,0 +1,23 @@
+    Powerful Siege Unit:
+        Effective against archers and enemy units.
+
+    Friendly Fire Issue:
+        Mangonel can damage your own units.
+        Option 1: Set it to no attack stance.
+        Preferred: Set it to stand ground and keep it out of range from your units.
+
+    Attack Ground Technique:
+        Use attack ground to target a specific point where enemies are present but no friendlies.
+        Ensures the mangonel fires against attacking units without moving.
+
+    Ballistics Effect:
+        Mangonel lacks ballistics effect.
+        Predict the enemy's movement by using attack ground to time the impact with their position.
+
+    Precision Shots:
+        To ensure effective hits on moving targets, use attack ground to align with the enemy's anticipated position.
+
+    Consider Input Delay:
+        Account for input delay to time attacks accurately.
+
+Note: Implement these strategies to maximize the mangonel's efficiency while minimizing the risk of friendly fire.

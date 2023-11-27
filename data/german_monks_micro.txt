@@ -1,0 +1,15 @@
+Selection of Monks:
+    Select a monk and hold down the "Ctrl" key.
+
+Assigning to Control Groups:
+    While holding "Ctrl," press a number key (e.g., 1) to assign the selected monk to that control group.
+    Repeat the process for other monks, using different number keys (e.g., 2, 3, 4).
+
+Unit Deployment:
+    Send the grouped monks forward towards the target area.
+
+Efficient Unit Selection:
+    Utilize the assigned number keys (1, 2, 3, 4) to select and control specific monk groups.
+
+Simultaneous Conversions:
+    By using control groups, you can efficiently convert about four units simultaneously.

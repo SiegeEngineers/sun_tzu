@@ -1,0 +1,19 @@
+**Locating Enemy Town Center in Age of Empires II:**
+
+1. **Mini-Map Observation:**
+   - Enemy Town Center often positioned symmetrically opposite to your own on the mini-map.
+
+2. **Scouting Strategy:**
+   - After finding your resources, send your scout to locate the enemy.
+   - Micro-manage each waypoint near their base, avoiding direct paths.
+
+3. **Control Group Usage:**
+   - Utilize control groups for precise scouting, minimizing risks.
+   - Avoid the risk of the scout immediately reaching the enemy Town Center.
+
+4. **Priority Targets:**
+   - Look for satellite resources or other enemy buildings first.
+   - Spot significant resources like gold, stone piles, or large forage bushes.
+
+5. **Resource Deduction:**
+   - Identify a gold or stone pile (4 tiles or more) to deduce the enemy Town Center's location accurately.

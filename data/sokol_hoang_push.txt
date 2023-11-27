@@ -1,0 +1,49 @@
+Celtic siege push  build order by hoang
+
+**Dark Age:**
+1. Start with 6 villagers on sheep.
+2. Allocate 5 villagers to wood.
+3. Push a deer.
+4. Build a house and wall (using 1 villager).
+5. Place 2 villagers on deer.
+6. Use 1 villager to lure a wild boar.
+7. Assign 4 villagers to gather from the boar.
+8. Build a house, a mill, and complete the wall.
+9. Lure the second wild boar with a villager under the Town Center.
+10. Allocate 4 villagers to forage bushes.
+11. Click up to Feudal Age at 23 population.
+
+*While advancing to Feudal Age:*
+12. Move 3 villagers from sheep to wood.
+13. Move 4 villagers from sheep to gold.
+14. Seed 5 farms.
+15. Build a house and a barracks.
+16. Train 4 Militias.
+
+**Feudal Age:**
+1. Place 4 villagers on gold.
+2. Research Man-at-Arms.
+3. Train 5 Skirmishers.
+4. Construct 2 houses and a market.
+5. Put 2 villagers on wood.
+6. Research Loom.
+7. Sell 200 stone.
+8. Click up to Castle Age.
+
+*While advancing to Castle Age:*
+9. Train 4 Spearmen.
+10. Move 4 villagers from under the TC to a forward position.
+11. Build a stable.
+
+**Castle Age:**
+1. Construct a Siege Workshop.
+2. Research Pikeman.
+3. Train 3 Knights.
+4. Train 3 Scorpions.
+5. Train 3 Battering Rams.
+6. Convert 4 villagers into one ram and 4 pikes into the other.
+7. Cover rams with scorpions, Man-at-Arms, and Militias.
+8. Repair the rams with your villagers.
+   
+*While in Castle Age:*
+9. If the enemy is in Castle Age, make monks.

@@ -1,0 +1,37 @@
+The video discusses the application of Lanchester's laws in Age of Empires 2, specifically focusing on combat dynamics and how numerical advantages impact battle outcomes. Here are the key points:
+
+1. **Two Lanchester Laws:**
+   - Two laws are considered: one for melee units (e.g., Greek phalanx) and another for ranged units (e.g., Byzantine skirmishers).
+   - The melee law assumes proportional strength to the number of units, while the ranged law involves randomness in hitting targets.
+
+2. **Linear Law for Melee Units:**
+   - Describes situations where unit strength is directly proportional to the number of units.
+   - Illustrated with an example of two armies, red and blue, where concentrated forces allow the blue army to win successive battles more efficiently.
+
+3. **Application of Linear Law:**
+   - Explains the application of Lanchester's equations to predict battle outcomes based on starting numbers and relative strength.
+
+4. **Snowball Effect and Square Law:**
+   - Discusses the snowball effect in battles where greater numbers lead to a significant advantage.
+   - Introduces the square law but notes its limitations, especially in small-scale engagements.
+
+5. **Modification of Square Law:**
+   - Proposes a modification to the square law formula to more accurately predict outcomes in smaller engagements.
+   - Demonstrates the modified formula in a scenario of 10 units versus 5.
+
+6. **Melee Units in Age of Empires 2:**
+   - Applies the linear law to melee units in Age of Empires 2 but acknowledges deviations due to the game's mechanics.
+   - Considers factors like unit efficiency and pathfinding between targets.
+
+7. **Strength Calculation:**
+   - Suggests a more useful measure of unit strength as the inverse of the time it takes to take down a target.
+   - Compares the strengths of different units, factoring in HP, attack damage, attack rate, and armor.
+
+8. **Importance of Numbers Advantage:**
+   - Emphasizes the significance of numerical advantages in overwhelming opponents, especially in decisive engagements.
+   - Highlights the importance of considering technology upgrades, population efficiency, map features, attack bonuses, and micro in battle outcomes.
+
+9. **Conclusion:**
+   - Concludes by cautioning against staying in the Dark Age and solely relying on numerical advantage, stressing the need for a balanced approach.
+
+Overall, the video provides insights into combat dynamics, numerical advantages, and the application of mathematical models in predicting battle outcomes in Age of Empires 2.

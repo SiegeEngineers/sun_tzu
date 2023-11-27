@@ -1,0 +1,17 @@
+Sure, here is the summary in plain text:
+
+The crucial advice is to consistently build villagers, as it directly correlates with increased military potential. Ideally, keep all town centers running until reaching 100-140 villagers. Temporarily pause villager production only for crucial technologies like Imperial Age. Use select attention cues to remind yourself to create villagers.
+
+Avoid getting housed by understanding that houses take 25 seconds to build, the same time as training a villager. Build houses as part of walls for efficiency and strength. Utilize multiple villagers for building when speed is essential.
+
+Effectively manage your economy by having a plan for wood usage. Always be aware of wood management, especially when planning upgrades, military units, or expansions. Use custom scenarios in the scenario editor to practice managing resources efficiently.
+
+Balance economy by keeping military production constant and using select all hotkeys. Pay attention to global production queues and create control groups for production facilities. Learn hotkeys to enhance gameplay speed.
+
+Reduce idle time by regularly using the "go to idle villager" hotkey. Shift+period selects all idle villagers not garrisoned. Shift queue building actions and use shift queue for efficient reseeding of farms.
+
+Rushing to Castle Age allows adding more town centers for faster economic expansion and defensive structures. Choose TC locations wisely, considering resource safety and efficiency. Use forward and woodline TCs strategically.
+
+Always have a plan for spending resources, balancing economy, and military production. React to the situation, adjusting strategies accordingly. It's better to float resources than not have them at all, but the goal is to spend all incoming resources for effective macro.
+
+This summarizes the key points from the video on improving in Age of Empires 2.

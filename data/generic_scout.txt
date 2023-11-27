@@ -1,0 +1,36 @@
+Scout rush with any cav/generic civ
+
+Dark age:
+- Queue up Villagers.
+- Build 2 Houses.
+  - When finished, send them to Sheep.
+- Assign villagers to Sheep.
+- Establish a Lumber Camp.
+  - When finished, send them to Wood.
+- Allocate villagers to Wood.
+- Lure Boar.
+- Assign villagers to Sheep/Boar.
+- Construct 2 Houses.
+  - When finished, send them to Berries.
+- Build a Mill.
+  - When finished, send them to Berries.
+- Allocate villagers to Berries.
+  - Lure 2nd Boar.
+- Assign villagers to Berries.
+- Assign villagers to Sheep/Boar.
+- Establish a Lumber Camp.
+  - When finished, send them to Wood.
+- Allocate villagers to Wood.
+- Research Loom.
+- Advance to Feudal Age.
+- Build a Barracks.
+  - Take 4 villagers from Sheep to Wood.
+
+Feudal age:
+    Construct a Stable.
+        When finished, train 2-3 scouts and send them to your opponent's base.
+        Take villagers from Sheep as they get depleted to farms
+    Establish Farms.
+    Research Double-Bit Axe.
+    Research Horse Collar.
+    Allocate villagers 21-28 to Farms.

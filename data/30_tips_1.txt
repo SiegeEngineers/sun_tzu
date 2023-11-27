@@ -1,0 +1,34 @@
+Here are the summarized and typo-free tips from the provided text:
+
+1. Farm upgrades only apply to finished farms.
+2. Villagers start constructing farms with one HP, making them vulnerable.
+3. Set gather point manually for hunting animals near the Town Center.
+4. Destroyed buildings with ongoing research do not lose resources.
+5. Hill bonuses provide a 25% damage advantage.
+6. Hill bonus does not affect building range.
+7. Gates placed on walls remove the existing wall until constructed.
+8. Unfinished gates have zero armor and are easy to destroy.
+9. Luring boars requires one hit from a villager and two from military units.
+10. Wolves' attack distance depends on difficulty settings.
+11. Monks can convert various units but not town centers, walls, or wonders.
+12. Relics teleport back to the monk's initial location if the transport ship is destroyed.
+13. Stay hydrated.
+14. The market helps balance your economy; Saracens have a trading fee advantage.
+15. In Empire Wars, some civ bonuses don't apply for balance.
+16. Buildings gain HP as you advance through ages.
+17. Onagers, trebuchets, and ballista elephants can cut down trees.
+18. Siege ramps can destroy buildings in an enemy base if left unattended.
+19. Use spread formation while moving across the map.
+20. Use patrol or attack-move to avoid immediate engagement.
+21. Units can keep gates open by staying underneath them.
+22. Villagers can drop off food gathered from fish at docks.
+23. Imperial Age tech "Spies" gives full enemy vision at a cost.
+24. Team game spawn positions are determined by colors.
+25. Tuetonic Bombard Tower shoots more cannonballs when garrisoned with certain units.
+26. Conscription in Imperial Age increases work rate for various buildings.
+27. Check enemy villagers by examining the cost of the "Spies" technology.
+28. In team games, spawn positions are based on colors.
+29. Tuetonic Bombard Tower shoots multiple cannonballs when garrisoned with specific units.
+30. Imperial Age upgrade "Conscription" is crucial for production speed.
+
+These summarized tips cover a variety of aspects in Age of Empires 2, from economic strategies to military tactics.

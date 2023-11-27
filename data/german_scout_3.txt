@@ -1,0 +1,14 @@
+**Scouting Safety on Standard Maps (e.g., Arabia):**
+
+1. **Safe Wood Line Hugging:**
+   - Wood lines are safe as they never spawn within the enemy town center's range.
+   - Knowing the general location is enough; detailed information about resources is not urgent.
+
+2. **Priority on Essential Information:**
+   - Focus on crucial info like enemy town center location and available resources.
+   - The presence of collective food under the Town Center is assumed and not a priority.
+
+3. **Safety Measures When Under Attack:**
+   - If the scout is within the enemy town center's range and under attack:
+     - Moving straight backward poses a higher risk.
+     - Opt for diagonal or sideways movement to dodge arrows effectively.

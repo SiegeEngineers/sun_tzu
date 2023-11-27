@@ -1,0 +1,28 @@
+Maa/Men at arms into archers for malay
+
+**Dark Age:**
+1. Start with 6 villagers on sheep.
+2. Allocate 4 villagers to wood.
+3. Use 1 villager to lure a boar.
+4. Build 1 house, then construct a barracks, followed by 2 more houses, and finally, a mill.
+   * Total: 1 house -> Barracks -> house -> house -> mill
+
+5. Put villagers on berries and collect 10 wood with one villager; use another villager to make Militia.
+   * Optionally, push deer to assist.
+
+6. At 22 population (including militia and scout, so 26 population if everything is alive):
+   - Research Loom.
+   - Click up to Feudal Age.
+
+7. Send 3 villagers to gold and ensure you have 10-11 on wood. Start making farms if out of sheep, and have a maximum of 6 on berries.
+
+**Feudal Age:**
+1. Adaptation for the next steps: 
+   - Push deer to maintain food income.
+   - Allocate villagers to wood, gold, and farms as needed.
+
+2. Continue with the plan:
+   - Send 3 villagers to gold.
+   - Ensure 10-11 villagers on wood.
+   - Begin making farms if you run out of sheep.
+   - Keep a maximum of 6 villagers on berries.

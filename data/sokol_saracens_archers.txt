@@ -1,0 +1,28 @@
+archer rush using Saracens
+
+**Dark Age:**
+1. Begin with 6 villagers on sheep.
+2. Allocate 3 villagers to wood.
+3. Use 1 villager to lure a wild boar.
+4. Assign 7 villagers to sheep.
+5. Move 3 villagers from sheep to gold.
+6. Put 2 villagers on sheep.
+7. Research Loom.
+8. Advance to Feudal Age with 20 villagers.
+
+*While advancing to Feudal Age:*
+9. Move 9 villagers from sheep to wood.
+10. Move 2 villagers from sheep to gold.
+11. Move 2 villagers from sheep forward.
+12. Build a Barracks.
+
+**Feudal Age:**
+1. Do not train more villagers.
+2. Construct 2 Ranges.
+3. Build a Blacksmith.
+4. Research Fletching.
+5. Move 2 villagers from food to wood.
+6. Allocate the rest from food to gold.
+7. Build another Range.
+8. Move 5 villagers from wood to gold.
+9. Produce archers.

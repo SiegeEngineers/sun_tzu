@@ -1,0 +1,20 @@
+## **RECOMMENDED MODS**
+These mods either give you in-game knowledge or diminishes problems of efficiency brought from visual imperfections from the game.
+All mods listed here are UHD Supported.
+
+
+***Must Haves***
+- **Anne_HK - Selected Small Trees with Grid Shadow** (drastically reduces the amount of holes in your walls, as well as decreasing chance of constructing your Lumber Camp too far away, which reduces efficiency)
+Alternative: **Anne_HK - Identical Pine Trees with Grid Shadow**
+- **No More Plants** (removes non-choppable plants, purely graphic - a few biomes have the straggler trees looking very much alike to graphical-only plants and then you realize you have a few idle villagers standing like idiots doing nothing)
+- **Idle Villager Pointer (UHD supported)** (creates a big red ! above your villagers when they are idle so you never again will let a villager stand there doing nothing for a few centuries after a quick wall)
+- **Anne_HK - Better Resource Panel and Idle Villager Icon** (changes the resource panel layout so numbers are more visible and completely changes the yellow small "Idle Villagers" icon into a bright red ribbon your blind granny could see from the other room)
+- **Interactive Build Order Guide** (famous voiced scenarios for training build orders)
+
+
+***Good Mods***
+- **No Intro** (removes the useless intro videos so you can enter your game faster enough so you can play up to 2.27 games during your lunch break)
+- **0xDB Map Color Clarity UI 2.0b** (this is a favorite of mine that makes resources on the map pop out more and make them easier to see)
+- **Fish Borders** (creates a small border on fish resources for better visibility)
+- **Anne_HK - Building Foundation Label (with Player Color)** (shows building icons on foundations so you know what's being built there)
+- **[FrostyFriends] Main Menu** or any background menu mod (after an update you KNOW you need to reactivate your mods before entering a ranked match)

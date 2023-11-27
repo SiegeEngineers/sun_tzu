@@ -1,0 +1,45 @@
+Men at arms/ maa plus archers rush for any/generic civ
+
+Dark Age:
+
+- Queue up Villagers at 3.
+- Build 2 Houses.
+  - When finished, send them to Sheep.
+- Gather from Sheep with villagers 4-6.
+- Establish a Lumber Camp with villager 7.
+  - When finished, send them to Wood.
+- Allocate villagers 8-10 to Wood.
+- Lure Boar with villager 11.
+- Build 2 Houses.
+  - When finished, send them to Berries.
+- Construct a Mill with villager 13.
+  - When finished, send them to Berries.
+- Gather from Berries with villagers 14-15.
+- Lure 2nd Boar with villager 16.
+- Gather from Berries with villagers 17-18.
+- Build a Barracks at 19.
+  - When finished, train 3 Militia.
+  - Send a villager to build a Farm.
+- Establish a (Gold) Mining Camp at 20.
+  - When finished, send them to Gold.
+- Gather from Gold with villager 21.
+- Research Loom.
+- Advance to Feudal Age.
+  - Take 4 Villagers from Sheep to a Lumber Camp.
+  - Take 1 Villager from Sheep to a Farm.
+
+Castle Age:
+
+- Research Double-Bit Axe at 21.
+- Train Men-at-Arms.
+  - Take 4 Villagers from Sheep to Wood.
+- Establish Farms at 22-23.
+  - Take villagers from Sheep as they get depleted to Farms.
+- Gather Gold at 24.
+- Construct (2x) Archery Range.
+- Build a Blacksmith.
+- Train Archers.
+- Gather Gold at 25-29.
+- Research Fletching.
+- Set up Farms at 30-38.
+  - Take villagers from Berries as they get depleted to Farms.

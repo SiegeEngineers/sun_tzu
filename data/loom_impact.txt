@@ -1,0 +1,44 @@
+In this video, Spirit of the Law discusses the importance of the "Loom" technology in Age of Empires 2, examining its effects, trade-offs, and when to research it. Here are the key points:
+
+1. **Benefits of Loom:**
+   - Loom costs 50 gold and provides villagers with 15 more HP, one more melee armor, and two more Pierce armor.
+   - Villagers are less likely to be lost in various situations, improving their survivability.
+
+2. **Impact on Early Game:**
+   - Loom allows villagers to take seven hits from a boar instead of four, making boar luring safer.
+   - Protects against wolves and early game units, such as Dark Age Scouts, Militia, and Men-at-Arms.
+   - Significantly improves the villagers' ability to withstand attacks, making them more resilient.
+
+3. **Comparison of Units:**
+   - Examines how Loom affects battles against various units, including scouts, militia, and archers.
+   - Shows the substantial difference in the number of hits loomed villagers can take compared to non-loomed villagers.
+
+4. **Resource Efficiency:**
+   - Each villager gathers around 20 resources per minute, making losing a villager a significant loss.
+   - Investing 50 gold in Loom is considered a great investment as it can save multiple villagers.
+
+5. **When to Get Loom:**
+   - Discusses the optimal timing for researching Loom.
+   - Loom takes the same time to research as it takes to create a villager, leading to considerations about the opportunity cost.
+   - Advises against getting Loom too early as it can set back your Dark Age economy compared to opponents who delay it.
+
+6. **Economic Impact:**
+   - Illustrates the economic impact of getting Loom early, potentially putting you behind by around 150 resources or more.
+   - Considers different Dark Age strategies and their implications on resource gathering.
+
+7. **Exceptions to Delaying Loom:**
+   - Discusses exceptions, such as the Chinese and Mayans, who have unique starting situations that allow for early Loom.
+   - Highlights scenarios, like risky Dark Age walling or encountering aggressive enemy units, where early Loom may be justified.
+
+8. **Dealing with Elephants and Rhinos:**
+   - Notes the challenges posed by animals like elephants and rhinos, which can make routine lures more stressful.
+   - Suggests that players may choose to get Loom early in these situations.
+
+9. **Getting Loom When Housed:**
+   - Recommends getting Loom if housed to efficiently use villager build time while waiting for the house to complete.
+
+10. **Conclusion:**
+    - Emphasizes the importance of timing Loom to balance its benefits with the opportunity cost.
+    - Advises against getting Loom too early unless specific circumstances warrant it.
+
+In summary, the video provides insights into the strategic considerations of researching Loom in Age of Empires 2, weighing its advantages against potential drawbacks and offering guidance on optimal timing.

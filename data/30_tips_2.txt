@@ -1,0 +1,30 @@
+Here are the summarized and typo-free tips from the provided text:
+
+1. Drop off resources by finishing the construction of an economic building.
+2. Use the idle villager hotkey for efficient economy management.
+3. Create control groups by selecting units and holding Ctrl + a number.
+4. Generate gold with trade cards or trade cogs by sending units to allied markets or docks.
+5. Start trading early in the Imperial Age.
+6. Prioritize economy upgrades: wood, food, gold, and stone.
+7. Use the F11 key to check in-game time, which is 1.7 times faster than real-time.
+8. Add a star at the beginning of your message to make it visible to everyone.
+9. Hold Alt while right-clicking with military units to ignore enemy buildings.
+10. Alt key also helps in not attacking Gaia units, useful for luring deer.
+11. Villagers need to deal the killing blow to herbivore animals to collect food.
+12. Scout cavalry gets significant buffs upon advancing to the Feudal Age.
+13. Team bonuses apply to your own civilization in 1v1 games.
+14. Civilization bonuses also apply to units available through team bonuses.
+15. Conversion time for monks is RNG-based but can be influenced by certain techs.
+16. Monks can heal farms, fish traps, and convert enemy farms and fish.
+17. Efficient hotkeys are crucial for speeding up the game.
+18. Cancel units or research in the global queue by holding Ctrl and left-clicking.
+19. Repairing a building requires half its original cost, but town centers require double the wood cost.
+20. The Organ Gun is the only unique unit requiring redemption to be converted.
+21. Aztecs, Incas, and Mayans can train Exodus Warriors if they have a stable.
+22. Infantry can garrison inside rams and siege towers, increasing speed and attack against buildings.
+23. Upon building a market, you get vision of all your allies without needing Cartography.
+24. War Galley technology upgrades not just galleys but also fire galleys, demolition rafts, and more.
+25. Villagers can garrison inside the Mirrored Houses and Khmer Houses.
+26. Make your hotkeys quick and efficient to click for better gameplay.
+
+These tips cover various aspects of Age of Empires 2, from economic management to unit interactions and efficient gameplay.

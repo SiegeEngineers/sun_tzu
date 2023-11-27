@@ -1,0 +1,166 @@
+The video is a comprehensive guide on late-game army compositions for each civilization in Age of Empires 2, focusing on the popular map Arabia. The presenter outlines his recommended compositions, emphasizing a realistic approach and considering the strengths of each civilization. Here is a detailed summary:
+
+1. **Aztecs:**
+   - Main Composition: Elite Eagle Warriors and Skirmishers with Atlatl technology.
+   - Supporting Units: Monks and Trebuchets.
+
+2. **Bengalis:**
+   - Main Composition: Ratha (cavalry) and optional support units like Skirmishers or Light Cavalry.
+   - Siege: Trebuchets or Bombard Cannons.
+
+3. **Berbers:**
+   - Main Composition: Camel Archers.
+   - Supporting Units: Hussars.
+   - Siege: Trebuchets or Bombard Cannons.
+
+4. **Bohemians:**
+   - Main Composition: Houfnice (unique unit) and Arbalests.
+   - Siege: Trebuchets or Bombard Cannons.
+
+5. **Britons:**
+   - Main Composition: Longbowmen and Halberdiers.
+   - Siege: Trebuchets or Bombard Cannons.
+
+6. **Bulgarians:**
+   - Main Composition: Konniks and Arbalests.
+   - Siege: Trebuchets or Bombard Cannons.
+
+7. **Burgundians:**
+   - Main Composition: Coustilliers or Flemish Militia (after revolution).
+   - Siege: Trebuchets or Bombard Cannons.
+
+8. **Byzantines:**
+   - Main Composition: Halberdiers and Skirmishers.
+   - Siege: Trebuchets or Bombard Cannons.
+
+9. **Celts:**
+   - Main Composition: Woad Raiders and Arbalests.
+   - Siege: Siege Rams and Trebuchets.
+
+10. **Chinese:**
+    - Main Composition: Chu Ko Nu (if castles available) or Arbalests, supported by Light Cavalry and Trebuchets.
+
+11. **Cumans:**
+    - Main Composition: Kipchaks and optional support units like Light Cavalry.
+    - Siege: Trebuchets or Bombard Cannons.
+
+12. **Ethiopians:**
+    - Main Composition: Shotel Warriors and Arbalests.
+    - Siege: Trebuchets or Bombard Cannons.
+
+13. **Franks:**
+    - Main Composition: Paladins.
+    - Supporting Units: Throwing Axemen or Hand Cannoneers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+14. **Goths:**
+    - Main Composition: Huskarls and Halberdiers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+15. **Gujaratis:**
+    - Main Composition: Camel Riders and optional support units.
+    - Siege: Trebuchets or Bombard Cannons.
+
+16. **Hindustanis:**
+    - Main Composition: Hand Cannoneers and Imperial Camels.
+    - Siege: Trebuchets or Bombard Cannons.
+
+17. **Huns:**
+    - Main Composition: Tarkan and Arbalests.
+    - Siege: Trebuchets or Bombard Cannons.
+
+18. **Incas:**
+    - Main Composition: Eagles and optional support units.
+    - Siege: Trebuchets or Siege Rams.
+
+19. **Italians:**
+    - Main Composition: Condotierri (or Arbalests) and Halberdiers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+20. **Japanese:**
+    - Main Composition: Arbalests and Halberdiers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+21. **Khmer:**
+    - Main Composition: Ballista Elephants and Hussars.
+    - Siege: Siege Onagers or Scorpions.
+
+22. **Koreans:**
+    - Main Composition: Arbalests or War Wagons and Halberdiers.
+    - Siege: Trebuchets or Onagers.
+
+23. **Lithuanians:**
+    - Main Composition: Light Cavalry or Leitis and Skirmishers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+24. **Magyars:**
+    - Main Composition: Arbalests and Hussars.
+    - Siege: Trebuchets or Bombard Cannons.
+
+25. **Malay:**
+    - Main Composition: Arbalests or Karambit Warriors and Siege Rams.
+    - Siege: Trebuchets or Onagers.
+
+26. **Malians:**
+    - Main Composition: Gbeto or Arbalests and Hussars.
+    - Siege: Trebuchets or Bombard Cannons.
+
+27. **Mayans:**
+    - Main Composition: Plumed Archers or Arbalests and Eagles.
+    - Siege: Trebuchets or Rams.
+
+28. **Mongols:**
+    - Main Composition: Mangudai and Hussars.
+    - Siege: Mangonels or Trebuchets.
+
+29. **Persians:**
+    - Main Composition: Paladins and Trash Bows (Skirmishers).
+    - Siege: Trebuchets or Bomb
+
+ard Cannons.
+
+30. **Poles:**
+    - Main Composition: Obuch (unique unit) and optional support units.
+    - Siege: Trebuchets or Bombard Cannons.
+
+31. **Portuguese:**
+    - Main Composition: Arquebus (unique tech) Arbalests and Halberdiers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+32. **Saracens:**
+    - Main Composition: Heavy Camel and Arbalests.
+    - Siege: Trebuchets or Bombard Cannons.
+
+33. **Sicilians:**
+    - Main Composition: Hobo Cavalry (unique unit) and Skirmishers.
+    - Siege: Trebuchets or Bombard Cannons.
+
+34. **Slavs:**
+    - Main Composition: Boyars and Halberdiers.
+    - Siege: Siege Onagers or Trebuchets.
+
+35. **Spanish:**
+    - Main Composition: Conquistadors and Unique Monks.
+    - Siege: Trebuchets or Bombard Cannons.
+
+36. **Tatars:**
+    - Main Composition: Heavy Cav Archers and Hussars.
+    - Siege: Trebuchets or Siege Rams.
+
+37. **Teutons:**
+    - Main Composition: Teutonic Knights and Halberdiers.
+    - Siege: Bombard Cannons or Siege Onagers.
+
+38. **Turks:**
+    - Main Composition: Janissaries and Hussars.
+    - Siege: Bombard Cannons or Trebuchets.
+
+39. **Vietnamese:**
+    - Main Composition: Rattan Archers and Halberdiers.
+    - Siege: Bombard Cannons or Trebuchets.
+
+40. **Vikings:**
+    - Main Composition: Berserks and Skirmishers.
+    - Siege: Trebuchets or Rams.
+
+The video concludes with a call for feedback and discussion, urging viewers to share their opinions on the recommended compositions and offering flexibility based on individual game situations.

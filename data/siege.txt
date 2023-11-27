@@ -1,0 +1,27 @@
+Hey guys, Spirit of the Law here. As a newer player, I found it easy to overlook siege units, and hopefully, this video will give you some ideas to try in your own games.
+
+To start things off, let's take a look at the Battering Ram. When you think of siege, you might think of anti-building, and the ram definitely fits that role. On paper, it has just 2 attack, but hidden behind that is a massive attack bonus against buildings. It's great for taking out defensive structures and Town Centers, which can only deal 1 damage per arrow to them. However, rams take 3 extra damage from villagers and other melee units, making them vulnerable if not properly defended from cavalry or infantry.
+
+Rams can still perform a similar anti-building role in the Imperial Age, demolishing buildings at a similar rate but from the safety of being 300 meters away. They make a great counter unit to send in first against mass towers to draw a lot of their fire, allowing other units to be sent in afterward.
+
+Bombard Cannons, on the other hand, deal melee damage, making them a much larger threat to rams. With around 200 damage compared to a regular Battering Ram's 11 damage per shot, Bombard Cannons are a powerful option. They are effective against defensive buildings and also serve as a counter to archers due to their high pierce armor.
+
+Rams, however, have an interesting counter role against other siege units. They have a 40 bonus damage against them, making rams an effective counter against trebuchets in a pinch. Garrisoning units into the ram can speed it up and slightly increase its attack by 10 damage per garrisoned unit.
+
+Moving on to the Siege Ram upgrade, it is more expensive but offers increased damage output, a larger damage area, and faster movement. Each upgrade also boosts defensive stats like HP and pierce armor.
+
+Now, let's shift our focus to the Mangonel. Primarily used against groups of enemy units, it serves as a common counter to archers in the mid-game. However, at higher levels of play, the effectiveness against archers diminishes due to skilled players dodging attacks. Mangonels have a minimum range, making them vulnerable to close combat.
+
+In the late game, Onagers are an upgrade of the Mangonel, still effective against large groups of enemies but with the added disadvantage of minimum range. Friendly fire can be an issue with Onagers, and they need to be combined with melee units to prevent cavalry from getting too close.
+
+The Siege Onager upgrade is more restrictive and expensive, but it provides increased damage, a greater damage area, and faster movement. They become a powerful weapon of mass destruction, especially effective against groups of infantry and archers.
+
+Scorpions, featuring minimum range and slow speed, are countered by Onagers and Mangonels. However, when massed, Scorpions can be effective against infantry and archers, especially in close spaces. The Heavy Scorpion upgrade is expensive but provides increased attack, making it worth considering.
+
+The Bombard Cannon, with its mobility, is effective against dangerous siege units like Trebuchets, Onagers, and Scorps. It serves as a part-time defensive counter unit due to its ability to maneuver quickly. However, it requires the Chemistry technology and has less pierce armor compared to the Trebuchet.
+
+The Trebuchet, specialized for cracking defenses, has more range and damage than the Bombard Cannon. It requires a bit of time to set up and take down but is a reliable building killer. The Heavy Scorpion upgrade increases its attack, making it a formidable unit in the late game.
+
+Finally, the Petard and Siege Tower are unique additions. The Siege Tower can garrison up to 10 units and ungarrison them across walls, serving as a sneak attack initiator. The Siege Tower, while costly, provides fast movement and better garrison space for moving units around the map and past enemy defenses.
+The Petard is fast and is usually used to blow up walls and other buildings/siege
+In conclusion, understanding the roles and strengths of different siege units can greatly enhance your strategic gameplay. Each unit has unique characteristics that make them suitable for specific scenarios, and experimenting with their applications can give you a strategic edge in Age of Empires 2.

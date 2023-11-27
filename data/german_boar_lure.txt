@@ -1,0 +1,10 @@
+    Survival:
+        Ensure the safety of all participants; everyone survives the adventure.
+
+    Town Center Placement:
+        Confirm that the boar ends up positioned under the town center.
+
+    Timely Capture:
+        Capture the boar in a timely manner to meet the requirements.
+
+Note: If your boar lure operation fulfills these three criteria, consider it a successful execution. Regular practice is recommended for proficiency.

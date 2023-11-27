@@ -1,0 +1,19 @@
+**Deer Pushing Procedure:**
+
+1. **Villager Preparation:**
+   - Have at least two villagers positioned under the town center.
+
+2. **Scout and Control Group:**
+   - Select the scout and create a control group for efficient management.
+
+3. **Alignment of Points:**
+   - Ensure alignment of three points: Town center, deer, and pushing position behind the deer.
+
+4. **Execution:**
+   - With the scout selected, press 'E' and click on the deer.
+   - Alternatively, move the scout behind the deer without the follow command.
+
+5. **Villager Assistance:**
+   - If receiving villagers are out of range or risk deterring the deer, garrison them and un-garrison to quickly rearrange the deer.
+
+**Note:** Maintain these steps for effective deer pushing in your gameplay.

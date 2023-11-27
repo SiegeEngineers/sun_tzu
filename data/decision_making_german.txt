@@ -1,0 +1,28 @@
+**Key Factors in AoE2 Decision Making:**
+
+1. **Decision Components:**
+   - Involves two crucial factors.
+     - What decisions to make.
+     - Information available for decision-making.
+
+2. **Decision Timing:**
+   - Later decisions offer more information.
+   - However, delayed decisions may be less effective.
+
+3. **Balancing Act:**
+   - Early decisions are more effective if correct.
+   - Risk of incorrect decisions due to less information.
+
+4. **Ideal Decision:**
+   - A good decision is both timely and effective.
+   - Challenges in achieving a well-informed yet early decision.
+
+5. **Timeliness vs. Effectiveness:**
+   - Striking a balance is essential.
+   - Challenge lies in making informed decisions promptly.
+
+6. **Risk Factor:**
+   - Early decisions carry higher risk.
+   - Late decisions provide more certainty but may lack impact.
+
+**Note:** Achieving well-timed, informed decisions is a challenge, requiring a careful balance between timeliness and effectiveness.

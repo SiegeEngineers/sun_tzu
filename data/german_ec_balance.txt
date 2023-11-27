@@ -1,0 +1,26 @@
+**Preventing and Managing Floating Resources in AoE2:**
+
+1. **Floating Resources Defined:**
+   - Resources accumulate when gathered but not spent, leading to a stockpile.
+   - Known as "floating."
+
+2. **Value of Unspent Resources:**
+   - Unspent resources are essentially worthless.
+   - The net value of a working villager equals that of an idle villager if resources remain unused.
+
+3. **Preventing Floating Resources:**
+   - Distribute villagers evenly based on current needs.
+   - Avoid concentrating too many villagers on a single resource.
+
+4. **Remedying Floating Resources:**
+   - Use the market to buy and sell resources for balancing.
+   - Spend surplus resources strategically to avoid float.
+
+5. **Balancing Villager Distribution:**
+   - Redistribute villagers to balance resource gathering and prevent accumulation.
+
+6. **Example Scenario:**
+   - If floating wood, reassign villagers to new farms.
+   - Simultaneously redistributes villagers and utilizes surplus wood.
+
+**Note:** Efficiently managing and spending resources is crucial to prevent resource float, ensuring optimal economic performance in AoE2.
