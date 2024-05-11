@@ -25,3 +25,11 @@ Theoretical knowledge of the game can only get you so far, this might save your 
 
 ## Live demo
 You can try it out here: https://suntzuaoe2.streamlit.app/
+
+
+## Updates udnerway as I will be adding a "what next" scenario trainer for sun tzu
+You can:
+- Post a screenshot and ask sun-tzu what to do next
+- Improvised and less hallucinating AI using Google's gemini
+- Better interface and less wondering how things work (intuitive UI)
+- Dynamic answers
